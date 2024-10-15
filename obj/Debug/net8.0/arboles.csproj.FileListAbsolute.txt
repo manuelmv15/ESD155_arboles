@@ -12,3 +12,4 @@
 /home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.pdb
 /home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.genruntimeconfig.cache
 /home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/ref/arboles.dll
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.sourcelink.json
