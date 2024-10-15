@@ -1,0 +1,14 @@
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.GeneratedMSBuildEditorConfig.editorconfig
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.AssemblyInfoInputs.cache
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.AssemblyInfo.cs
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.csproj.CoreCompileInputs.cache
+/home/manuel/Documentos/estructura/computo3/arboles/bin/Debug/net8.0/arboles
+/home/manuel/Documentos/estructura/computo3/arboles/bin/Debug/net8.0/arboles.deps.json
+/home/manuel/Documentos/estructura/computo3/arboles/bin/Debug/net8.0/arboles.runtimeconfig.json
+/home/manuel/Documentos/estructura/computo3/arboles/bin/Debug/net8.0/arboles.dll
+/home/manuel/Documentos/estructura/computo3/arboles/bin/Debug/net8.0/arboles.pdb
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.dll
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/refint/arboles.dll
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.pdb
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/arboles.genruntimeconfig.cache
+/home/manuel/Documentos/estructura/computo3/arboles/obj/Debug/net8.0/ref/arboles.dll
